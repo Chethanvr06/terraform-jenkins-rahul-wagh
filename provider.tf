@@ -1,4 +1,4 @@
 provider "aws" {
-  region                   = "eu-west-1"
-  shared_credentials_files = ["/home/ubuntu/.aws/credential"]
+  region                   = "ap-south-1"
+  shared_credentials_files = ["/home/ubuntu/credential"]
 }
